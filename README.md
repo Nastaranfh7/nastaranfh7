@@ -52,13 +52,13 @@ Front‑end Developer (React) & UI/UX Designer — crafting clean, user‑focuse
   </a>
 </p>
 
-<p>
+<!-- <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nastaranfh7&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nastaranfh7&show_icons=true&locale=en" />
-</p>
+</p> -->
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nastaranfh7" />
